@@ -55,23 +55,6 @@ AI Agent/
 ├── .env.example                # Environment variables template
 └── README.md                   # This file
 ```
-
-## 📦 Making Repository Public
-
-If you want to make this repository public on GitHub:
-
-1. **Create a new repository on GitHub** (or use existing one)
-2. **Initialize git and push** (if not already done):
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: AI Interview Practice Partner"
-   git branch -M main
-   git remote add origin <your-github-repo-url>
-   git push -u origin main
-   ```
-3. **Make repository public** in GitHub Settings → General → Danger Zone → Change repository visibility
-
 ## 🚀 Getting Started
 
 ### Prerequisites
